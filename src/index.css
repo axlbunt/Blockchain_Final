@@ -20,6 +20,7 @@ body {
   font-family: "Open Sans";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #cae8ff;
 }
 
 /* ------------------------------------------------------ */
@@ -112,7 +113,7 @@ header {
   left: 50%;
   transform: translate(-50%, -50%);
 
-  color: var(--clr-white);
+  color: var(--clr-black);
   font-size: 3em;
 
   width: 100%;
@@ -190,7 +191,7 @@ header {
   width: 100%;
   height: 45%;
 
-  background-color: var(--clr-white);
+  background-color: var(--clr-blue);
 
   padding: 5px 10px;
 

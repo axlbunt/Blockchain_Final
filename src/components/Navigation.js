@@ -33,6 +33,7 @@ const Navigation = ({ account, setAccount }) => {
                     type="button"
                     className='nav__connect'
                     onClick={connectHandler}
+                    
                 >
                     Connect
                 </button>
